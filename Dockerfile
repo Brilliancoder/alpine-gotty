@@ -1,5 +1,4 @@
-FROM hackinglab/alpine-base:3.2
-MAINTAINER Ivan Buetler <ivan.buetler@compass-security.com>
+FROM alpine 3.18.4
 
 ENV LANG="en_US.UTF-8" \
     LC_ALL="en_US.UTF-8" \
